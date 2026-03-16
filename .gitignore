@@ -1,0 +1,28 @@
+local/
+wiki/
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Log e Temp
+*.log
+tmp/
+temp/
+
+# Dipendenze e Build
+dist/
+build/
+bin/
+obj/
+
+# Segreti (DA NON CARICARE MAI)
+.env
+*.key
+*.pem
